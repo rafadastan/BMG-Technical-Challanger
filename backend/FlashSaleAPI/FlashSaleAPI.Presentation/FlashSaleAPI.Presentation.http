@@ -1,0 +1,6 @@
+@FlashSaleAPI.Presentation_HostAddress = http://localhost:5290
+
+GET {{FlashSaleAPI.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
